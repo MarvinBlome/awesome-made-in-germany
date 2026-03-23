@@ -1,0 +1,23 @@
+
+== Contribution Guidelines
+
+Contributions are welcome.
+
+Please consider the following when adding a product:
+
+* Add the official website URL
+* Add a short, factual description
+* Prefer active and still maintained software
+* Group the product into the most fitting category
+* Avoid duplicate entries
+* If possible, include the company name and headquarters in the future
+
+== Inclusion Criteria
+
+A product should meet most of the following criteria to be included:
+
+* Developed in Germany or by a company headquartered in Germany
+* Actively maintained or still relevant
+* Recognizable product with clear end-user value
+* Strong quality, niche relevance or historical importance
+* Ideally available on Apple platforms, at least in this first version of the list

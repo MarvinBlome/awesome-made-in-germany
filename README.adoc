@@ -6,6 +6,15 @@
 
 A curated list of software products made in Germany.
 
+== Why this list exists
+
+Many users do not realize that the software they use every day is developed in Germany.
+Software made in Germany is often associated with practical thinking, strong quality, long-term reliability and local support.
+
+This repository aims to make these products more visible and easier to discover.
+
+---
+
 == Project Management & Productivity
 
 A collection of tools for planning, organizing and getting work done.
@@ -74,32 +83,3 @@ A collection of infrastructure, localization and everyday utility software.
 * Wordcrafts LocSuite - Localization software for translating software projects.
 * WarnWetter - Official weather warning app of the German Weather Service (DWD).
 
-== Why this list exists
-
-Many users do not realize that the software they use every day is developed in Germany.
-Software made in Germany is often associated with practical thinking, strong quality, long-term reliability and local support.
-
-This repository aims to make these products more visible and easier to discover.
-
-== Inclusion Criteria
-
-A product should meet most of the following criteria to be included:
-
-* Developed in Germany or by a company headquartered in Germany
-* Actively maintained or still relevant
-* Recognizable product with clear end-user value
-* Strong quality, niche relevance or historical importance
-* Ideally available on Apple platforms, at least in this first version of the list
-
-== Contributing
-
-Contributions are welcome.
-
-Please consider the following when adding a product:
-
-* Add the official website URL
-* Add a short, factual description
-* Prefer active and still maintained software
-* Group the product into the most fitting category
-* Avoid duplicate entries
-* If possible, include the company name and headquarters in the future
