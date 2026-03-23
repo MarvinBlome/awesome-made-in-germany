@@ -1,2 +1,105 @@
-# awesome-made-in-germany
-Awesome Software Made in Germany
+:toc:
+:author: Marvin Blome
+:revversion: 23.03.2026
+
+= Awesome Made in Germany
+
+A curated list of software products made in Germany.
+
+== Project Management & Productivity
+
+A collection of tools for planning, organizing and getting work done.
+
+* Merlin Project - Professional project management software for planning, managing and controlling projects of all sizes.
+* Things - Award-winning personal task manager for creating and managing to-do lists.
+* Meeting Cards - Tool for preparing and structuring meetings.
+* Phone Memos - App for capturing call notes quickly and consistently.
+* Herein! - Software for visitor and guest management.
+* NoteGen - Tool for quickly capturing thoughts and notes.
+* Noteship - App for timestamped notes and quick documentation.
+
+== Writing, Documentation & Knowledge
+
+A collection of tools for writing, documentation and personal knowledge work.
+
+* adoc Studio - AsciiDoc editor for Mac, iPad and iPhone.
+* Ulysses - Writing app for focused drafting, document management and flexible export.
+* Papyrus - Writing software for novels and long-form texts.
+* The Archive - Knowledge management app inspired by the Zettelkasten method.
+* Zettelkasten - Tool for building and managing a personal knowledge archive.
+* Zettlr - Modern Markdown editor for academic and long-form writing.
+* QOwnNotes - Open-source note-taking application from Germany.
+
+== Office, Finance & Administration
+
+A collection of business, office and finance tools.
+
+* SoftMaker Office NX - Office suite from Nuremberg.
+* MoneyMoney - Banking software.
+* Monkey Office - Software for office and accounting workflows.
+* SteuerSpar Software - Tax software by SteuerTipps.
+* WISO Steuer - Tax filing software for Germany.
+* Ragtime - Productivity software for structured business documents and office workflows.
+
+== Developer & Technical Tools
+
+A collection of tools for developers, admins and technical users.
+
+* Tower - Git client.
+* MAMP - Classic local web development environment.
+* MAMP PRO - Extended local web development environment for professional workflows.
+* Fritzing - Tool for designing electronic circuits, originally created as a research project at the University of Applied Sciences Potsdam.
+* iNet - Network analysis and diagnostics tool.
+* iCab - One of the oldest browsers still in existence.
+* Synium Tools - Collection of utility tools from Synium Software.
+
+== Design, Media & Creative Tools
+
+A collection of creative software for visual, audio and presentation work.
+
+* GraphicConverter - Tool for image editing and conversion.
+* Logoist - Graphics and animation software from Synium Software.
+* Cursor Pro - Tool for highlighting cursor movement during presentations and demos.
+* Keystroke Pro - Tool for visualizing keyboard input during presentations and demos.
+* Mouseposé - Utility for making mouse actions visible on screen.
+* Pianoscope - App for tuning pianos.
+* Pieoneer - Tool for rethinking and creating pie-chart based visualizations.
+
+== Cloud, Translation & Utilities
+
+A collection of infrastructure, localization and everyday utility software.
+
+* Nextcloud - Open-source cloud solution headquartered in Stuttgart.
+* DeepL - AI-powered translation tool.
+* Wordcrafts LocSuite - Localization software for translating software projects.
+* WarnWetter - Official weather warning app of the German Weather Service (DWD).
+
+== Why this list exists
+
+Many users do not realize that the software they use every day is developed in Germany.
+Software made in Germany is often associated with practical thinking, strong quality, long-term reliability and local support.
+
+This repository aims to make these products more visible and easier to discover.
+
+== Inclusion Criteria
+
+A product should meet most of the following criteria to be included:
+
+* Developed in Germany or by a company headquartered in Germany
+* Actively maintained or still relevant
+* Recognizable product with clear end-user value
+* Strong quality, niche relevance or historical importance
+* Ideally available on Apple platforms, at least in this first version of the list
+
+== Contributing
+
+Contributions are welcome.
+
+Please consider the following when adding a product:
+
+* Add the official website URL
+* Add a short, factual description
+* Prefer active and still maintained software
+* Group the product into the most fitting category
+* Avoid duplicate entries
+* If possible, include the company name and headquarters in the future
