@@ -1,6 +1,6 @@
 :toc:
 :author: Marvin Blome
-:revversion: 23.03.2026
+:revversion: 26.03.2026
 
 = Awesome Made in Germany
 
@@ -19,67 +19,65 @@ This repository aims to make these products more visible and easier to discover.
 
 A collection of tools for planning, organizing and getting work done.
 
-* Merlin Project - Professional project management software for planning, managing and controlling projects of all sizes.
-* Things - Award-winning personal task manager for creating and managing to-do lists.
-* Meeting Cards - Tool for preparing and structuring meetings.
-* Phone Memos - App for capturing call notes quickly and consistently.
-* Herein! - Software for visitor and guest management.
-* NoteGen - Tool for quickly capturing thoughts and notes.
-* Noteship - App for timestamped notes and quick documentation.
+* https://www.projectwizards.net[Merlin Project] - Professional project management software for planning, managing and controlling projects of all sizes.
+* https://www.culturedcode.com[Things] - Award-winning personal task manager for creating and managing to-do lists.
+* https://bighairygoal.com[Big Hairy Goal] - Mind-mapping, brainstorming and progress-tracking app.
+* https://notegen.co[NoteGen] - AI-assisted assistant for creating notes and content from audio and voice recordings.
+* https://noteship.com[Noteship] - Note-taking and knowledge-management app for structured notes and Zettelkasten methods.
 
 == Writing, Documentation & Knowledge
 
 A collection of tools for writing, documentation and personal knowledge work.
 
-* adoc Studio - AsciiDoc editor for Mac, iPad and iPhone.
-* Ulysses - Writing app for focused drafting, document management and flexible export.
-* Papyrus - Writing software for novels and long-form texts.
-* The Archive - Knowledge management app inspired by the Zettelkasten method.
-* Zettelkasten - Tool for building and managing a personal knowledge archive.
-* Zettlr - Modern Markdown editor for academic and long-form writing.
-* QOwnNotes - Open-source note-taking application from Germany.
+* https://www.adoc-studio.app[adoc Studio] - AsciiDoc editor for Mac, iPad and iPhone.
+* https://ulysses.app[Ulysses] - Writing app for focused drafting, document management and flexible export.
+* https://papyrus.de[Papyrus] - Writing software for novels and long-form texts.
 
 == Office, Finance & Administration
 
 A collection of business, office and finance tools.
 
-* SoftMaker Office NX - Office suite from Nuremberg.
-* MoneyMoney - Banking software.
-* Monkey Office - Software for office and accounting workflows.
-* SteuerSpar Software - Tax software by SteuerTipps.
-* WISO Steuer - Tax filing software for Germany.
-* Ragtime - Productivity software for structured business documents and office workflows.
+* https://moneymoney.app[MoneyMoney] - Secure online banking software for macOS with local data storage.
+* https://www.monkey-office.de[MonKey Office] - Modular accounting and ERP software for freelancers and small businesses.
+* https://www.projectwizards.net[Telefonnotiz] - App for capturing call notes quickly and consistently.
+* https://www.syniumsoftware.com/de/ifinance[iFinance] - Comprehensive financial management software for Apple devices.
+* https://www.steuertipps.de[SteuerSpar Erklärung] - Tax software for preparing German income tax returns.
+* https://www.buhl.de[WISO Steuer] - Leading TÜV-certified tax filing software for Germany.
+* https://www.ragtime.de[RagTime] - Frame-based business publishing software combining word processing, spreadsheets and graphics.
 
 == Developer & Technical Tools
 
 A collection of tools for developers, admins and technical users.
 
-* Tower - Git client.
-* MAMP - Classic local web development environment.
-* MAMP PRO - Extended local web development environment for professional workflows.
-* Fritzing - Tool for designing electronic circuits, originally created as a research project at the University of Applied Sciences Potsdam.
-* iNet - Network analysis and diagnostics tool.
-* iCab - One of the oldest browsers still in existence.
-* Synium Tools - Collection of utility tools from Synium Software.
+* https://www.git-tower.com[Tower] - Powerful graphical Git client for intuitive repository management.
+* https://www.bananaglue.de[iNet] - Network analysis and diagnostics tool for Apple platforms.
+* https://www.icab.de[iCab] - One of the oldest browsers still in existence, now mainly known as iCab Mobile for iOS.
+* https://www.syniumsoftware.com/de/screenium[Screenium] - Screencast and screen-recording software for macOS and iOS.
 
 == Design, Media & Creative Tools
 
 A collection of creative software for visual, audio and presentation work.
 
-* GraphicConverter - Tool for image editing and conversion.
-* Logoist - Graphics and animation software from Synium Software.
-* Cursor Pro - Tool for highlighting cursor movement during presentations and demos.
-* Keystroke Pro - Tool for visualizing keyboard input during presentations and demos.
-* Mouseposé - Utility for making mouse actions visible on screen.
-* Pianoscope - App for tuning pianos.
-* Pieoneer - Tool for rethinking and creating pie-chart based visualizations.
+* https://www.lemkesoft.de[GraphicConverter] - Versatile image browser and conversion tool for macOS.
+* https://www.syniumsoftware.com/logoist[Logoist] - Graphics and vector design software from Synium Software.
+* https://appahead.studio[Cursor Pro] - Tool for highlighting cursor movement during presentations and demos.
+* https://appahead.studio[Keystroke Pro] - Tool for visualizing keyboard input during presentations and demos.
+* https://boinx.com/mousepose/[Mouseposé] - Utility for making mouse actions visible on screen.
+* https://www.pianoscope.app[Pianoscope] - Professional piano-tuning software for iPhone and iPad.
+* https://appahead.studio[Pieoneer] - Productivity app with pie menu for launching apps and triggering shortcuts.
 
 == Cloud, Translation & Utilities
 
 A collection of infrastructure, localization and everyday utility software.
 
-* Nextcloud - Open-source cloud solution headquartered in Stuttgart.
-* DeepL - AI-powered translation tool.
-* Wordcrafts LocSuite - Localization software for translating software projects.
-* WarnWetter - Official weather warning app of the German Weather Service (DWD).
+* https://nextcloud.com[Nextcloud] - Open-source cloud solution headquartered in Stuttgart.
+* https://www.deepl.com[DeepL] - AI-powered translation tool developed in Cologne.
+* https://www.projectwizards.net[Meetingkarten] - Show cues and emotions in video conferences using cards on your iPhone.
+* https://www.dwd.de[WarnWetter] - Official weather warning app of the German Weather Service (DWD).
+
+== Health & Wellbeing
+
+A collection of apps for personal health and emotional wellbeing.
+
+* https://mblome.com/innerpulse[InnerPulse] - Mood tracking app for logging emotional states, identifying patterns and discovering wellbeing factors, fully offline on device.
 
