@@ -41,6 +41,7 @@ A collection of business, office and finance tools.
 * https://www.monkey-office.de[MonKey Office] - Modular accounting and ERP software for freelancers and small businesses.
 * https://www.projectwizards.net[Telefonnotiz] - App for capturing call notes quickly and consistently.
 * https://www.syniumsoftware.com/de/ifinance[iFinance] - Comprehensive financial management software for Apple devices.
+* https://www.application-systems.de/bankx/index.html[Bank X] - Secure online banking software for macOS with local data storage and account management.
 * https://www.steuertipps.de[SteuerSpar Erklärung] - Tax software for preparing German income tax returns.
 * https://www.buhl.de[WISO Steuer] - Leading TÜV-certified tax filing software for Germany.
 * https://www.ragtime.de[RagTime] - Frame-based business publishing software combining word processing, spreadsheets and graphics.
