@@ -2,7 +2,7 @@
 :author: Marvin Blome
 :revversion: 26.03.2026
 
-= Awesome Made in Germany image:https://awesome.re/badge.svg[Awesome, link=https://awesome.re]
+= Awesome Software Made in Germany image:https://awesome.re/badge.svg[Awesome, link=https://awesome.re]
 
 A curated list of software products made in Germany.
 
